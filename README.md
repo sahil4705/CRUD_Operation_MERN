@@ -9,14 +9,15 @@
 
 CRUD Operation Using MongoDB Express ReactJS NodeJS
 
-## Installation
+# Installation
 
 First Download Zip
 
 1. run npm init
 2. cd server
 3. npm start
-4. npm run dev
+4. cd client
+5. npm run dev
 
 ## Usage
 
