@@ -23,18 +23,6 @@ First Download Zip
 
 Provide examples on how to use your project and any relevant code snippets.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines.
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -am 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-Please make sure to update tests as appropriate.
-
 ## ScreenShot
 
 ![Screenshot (174)](https://github.com/sahil4705/CRUD_Operation_MERN/assets/114597900/b7eb2ef0-c535-4ede-91a7-a08e3a1408f1)
